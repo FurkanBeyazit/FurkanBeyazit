@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tensorflow , R**
 
-- 👯 I’m looking to collaborate on **Any AI Tool project**
+- 👯 I’m looking to collaborate on **Machine learning, Deep learning projects**
 
 - 🤝 I’m looking for help with **Opencv, Tensorflow, Pytorch**
 
