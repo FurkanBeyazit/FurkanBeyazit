@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://furkanbeyazit.github.io/FurkanAnalyst.github.io/](https://furkanbeyazit.github.io/FurkanAnalyst.github.io/)
 
-- Fun Fact **Working as a football statistician**
+  **Working as a football statistician**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
