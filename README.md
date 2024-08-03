@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data analyst from Turkey living in Korea</h3>
 
 
-- 🌱 I’m currently learning **Langchain,LLM,Tensorflow , R**
+- 🌱 I’m currently learning **NLP, Langchain, LLM, Tensorflow , R**
 
 - 👯 I’m looking to collaborate on **LLM,Machine learning, Deep learning projects,Network analysis**
 
