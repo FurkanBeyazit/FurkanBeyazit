@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on **Facial Expression Recognition with TensorFlow**
 
-- 🌱 I’m currently learning **Tensorflow , R**
+- 🌱 I’m currently learning **Langchain,LLM,Tensorflow , R**
 
-- 👯 I’m looking to collaborate on **Machine learning, Deep learning projects**
+- 👯 I’m looking to collaborate on **LLM,Machine learning, Deep learning projects**
 
-- 🤝 I’m looking for help with **Opencv, Tensorflow, Pytorch**
+- 🤝 I’m looking for help with **LLM,Opencv, Tensorflow, Pytorch**
 
 - 👨‍💻 All of my projects are available at [https://furkanbeyazit.github.io/FurkanAnalyst.github.io/](https://furkanbeyazit.github.io/FurkanAnalyst.github.io/)
 
-  **Working as a football statistician**
+  **Working as a sports statistician**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
