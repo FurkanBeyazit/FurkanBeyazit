@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Langchain,LLM,Tensorflow , R**
 
-- 👯 I’m looking to collaborate on **LLM,Machine learning, Deep learning projects**
+- 👯 I’m looking to collaborate on **LLM,Machine learning, Deep learning projects,Network analysis**
 
 - 🤝 I’m looking for help with **LLM,Opencv, Tensorflow, Pytorch**
 
