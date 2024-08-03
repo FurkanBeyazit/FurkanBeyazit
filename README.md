@@ -1,7 +1,7 @@
 <h1 align="center">Hi 안녕하세요.👋, I'm Furkan</h1>
 <h3 align="center">A passionate data analyst from Turkey living in Korea</h3>
 
-- 🔭 I’m currently working on **Facial Expression Recognition with TensorFlow**
+- 🔭 I’m currently working on **...**
 
 - 🌱 I’m currently learning **Langchain,LLM,Tensorflow , R**
 
