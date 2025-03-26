@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **LLM,Opencv, Tensorflow, Pytorch**
 
-- 👨‍💻 All of my projects are available at [https://furkanbeyazit.github.io/FurkanAnalyst.github.io/](https://furkanbeyazit.github.io/FurkanAnalyst.github.io/)
+- 👨‍💻 All of my projects are available at [Here](https://furkanbeyazit.github.io/)
 
   **Working as a sports statistician**
 
